@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>bootma&#39;s blog site</title>
+        <link>https://bootma.github.io/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.104.3 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>boot_master@163.com (Bootma)</managingEditor>
+        
+        
+            <webMaster>boot_master@163.com (Bootma)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sun, 23 Oct 2022 00:06:36 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://bootma.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>First</title>
+                <link>https://bootma.github.io/post/first/</link>
+                <guid isPermaLink="true">https://bootma.github.io/post/first/</guid>
+                <pubDate>Sat, 22 Oct 2022 22:38:42 &#43;0800</pubDate>
+                
+                    <author>boot_master@163.com (Bootma)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;first-test&#34;&gt;First test&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;$$f_s = 5MHz$$&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
