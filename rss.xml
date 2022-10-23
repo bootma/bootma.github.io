@@ -23,100 +23,10 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 23 Oct 2022 22:26:43 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 23:55:25 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://bootma.github.io/rss.xml" />
         
-        
-            <item>
-                <title>2</title>
-                <link>https://bootma.github.io/posts/2/</link>
-                <guid isPermaLink="true">https://bootma.github.io/posts/2/</guid>
-                <pubDate>Sun, 23 Oct 2022 18:08:47 &#43;0800</pubDate>
-                
-                    <author>boot_master@163.com (Bootma)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description></description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>First</title>
-                <link>https://bootma.github.io/posts/first/</link>
-                <guid isPermaLink="true">https://bootma.github.io/posts/first/</guid>
-                <pubDate>Sun, 23 Oct 2022 18:07:50 &#43;0800</pubDate>
-                
-                    <author>boot_master@163.com (Bootma)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description>&lt;h2 id=&#34;测试页面&#34;&gt;测试页面&lt;/h2&gt;
-&lt;p&gt;这是一个测试页面，用于熟悉该主题的各种设置选项&lt;/p&gt;
-&lt;p&gt;这是一个测试页面，用于熟悉该主题的各种设置选项
-这是一个测试页面，用于熟悉该主题的各种设置选项
-这是一个测试页面，用于熟悉该主题的各种设置选项
-这是一个测试页面，用于熟悉该主题的各种设置选项
-这是一个测试页面，用于熟悉该主题的各种设置选项
-&lt;code&gt;这是一个测试页面，用于熟悉该主题的各种设置选项&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;数学公式&#34;&gt;数学公式&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;$$F_s = \frac{1}{T_s}$$
-$$\sum_{i=0}^{N-1}x^{2}$$&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;$e^{j \pi} = -1$&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;插入图片&#34;&gt;插入图片&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://bootma.github.io/2022-10-23_112600.png&#34; alt=&#34; &#34;&gt;&lt;/p&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://bootma.github.io/categories/test/">Test</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://bootma.github.io/tags/test/">test</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://bootma.github.io/tags/first/">first</category>
-                                
-                            
-                        
-                    
-                
-            </item>
         
     </channel>
 </rss>
