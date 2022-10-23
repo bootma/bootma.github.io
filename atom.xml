@@ -3,8 +3,8 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">bootma&#39;s blog site</title>
-    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-10-23T14:43:21&#43;08:00</updated>
+    <subtitle type="html">本站用于个人记录，分享。转载引用请标明出处！禁止用于商业用途！！</subtitle>
+    <updated>2022-10-23T22:26:43&#43;08:00</updated>
     <id>https://bootma.github.io/</id>
     <link rel="alternate" type="text/html" href="https://bootma.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://bootma.github.io/atom.xml" />
@@ -17,23 +17,19 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.104.3">Hugo</generator>
         <entry>
-            <title type="text">First</title>
-            <link rel="alternate" type="text/html" href="https://bootma.github.io/post/first/" />
-            <id>https://bootma.github.io/post/first/</id>
-            <updated>2022-10-23T14:36:12&#43;08:00</updated>
-            <published>2022-10-22T22:38:42&#43;08:00</published>
+            <title type="text">2</title>
+            <link rel="alternate" type="text/html" href="https://bootma.github.io/posts/2/" />
+            <id>https://bootma.github.io/posts/2/</id>
+            <updated>2022-10-23T18:08:47&#43;08:00</updated>
+            <published>2022-10-23T18:08:47&#43;08:00</published>
             <author>
                     <name>Bootma</name>
-                    <uri>https://io-oi.me/</uri>
+                    <uri>https://bootma.github.io</uri>
                     <email>boot_master@163.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">First test $$f_s = 5MHz$$</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
             
-                <content type="html">&lt;h2 id=&#34;first-test&#34;&gt;First test&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;$$f_s = 5MHz$$&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
+                <content type="html"></content>
             
             
             
@@ -42,6 +38,75 @@
                 
                     
                 
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">First</title>
+            <link rel="alternate" type="text/html" href="https://bootma.github.io/posts/first/" />
+            <id>https://bootma.github.io/posts/first/</id>
+            <updated>2022-10-23T20:58:29&#43;08:00</updated>
+            <published>2022-10-23T18:07:50&#43;08:00</published>
+            <author>
+                    <name>Bootma</name>
+                    <uri>https://bootma.github.io</uri>
+                    <email>boot_master@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">This first file is a test</summary>
+            
+                <content type="html">&lt;h2 id=&#34;测试页面&#34;&gt;测试页面&lt;/h2&gt;
+&lt;p&gt;这是一个测试页面，用于熟悉该主题的各种设置选项&lt;/p&gt;
+&lt;p&gt;这是一个测试页面，用于熟悉该主题的各种设置选项
+这是一个测试页面，用于熟悉该主题的各种设置选项
+这是一个测试页面，用于熟悉该主题的各种设置选项
+这是一个测试页面，用于熟悉该主题的各种设置选项
+这是一个测试页面，用于熟悉该主题的各种设置选项
+&lt;code&gt;这是一个测试页面，用于熟悉该主题的各种设置选项&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;数学公式&#34;&gt;数学公式&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;$$F_s = \frac{1}{T_s}$$
+$$\sum_{i=0}^{N-1}x^{2}$$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;$e^{j \pi} = -1$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;插入图片&#34;&gt;插入图片&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://bootma.github.io/2022-10-23_112600.png&#34; alt=&#34; &#34;&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://bootma.github.io/categories/test/" term="Test" label="Test" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://bootma.github.io/tags/test/" term="test" label="test" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://bootma.github.io/tags/first/" term="first" label="first" />
+                            
+                        
                     
                 
             
